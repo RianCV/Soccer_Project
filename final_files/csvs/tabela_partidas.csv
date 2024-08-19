@@ -1,0 +1,77 @@
+Team,Matchweek,Status,Venue,Result,Goals_for,Goals_against,xG,xGA
+Fluminense,Matchweek 1,True,Home,D,2.0,2.0,1.8,1.2
+Fluminense,Matchweek 2,True,Away,L,1.0,2.0,0.4,1.1
+Fluminense,Matchweek 3,True,Home,W,2.0,1.0,1.3,1.9
+Fluminense,Matchweek 4,True,Away,L,0.0,3.0,0.4,1.2
+Fluminense,Matchweek 5,True,Home,D,2.0,2.0,1.8,1.3
+Fluminense,Matchweek 6,True,Away,L,1.0,2.0,0.6,1.8
+Fluminense,Matchweek 7,True,Home,D,1.0,1.0,2.3,1.3
+Fluminense,Matchweek 8,True,Away,L,0.0,1.0,0.2,1.7
+Fluminense,Matchweek 9,True,Home,L,1.0,2.0,0.7,1.8
+Fluminense,Matchweek 10,True,Away,L,0.0,2.0,0.3,1.8
+Fluminense,Matchweek 11,True,Home,L,0.0,1.0,0.3,2.0
+Fluminense,Matchweek 12,True,Home,L,0.0,1.0,0.3,0.5
+Fluminense,Matchweek 13,True,Away,L,0.0,1.0,0.5,1.0
+Fluminense,Matchweek 14,True,Home,D,1.0,1.0,0.3,0.7
+Fluminense,Matchweek 15,True,Away,L,0.0,1.0,0.3,2.0
+Fluminense,Matchweek 16,True,Away,D,1.0,1.0,2.1,1.1
+Fluminense,Matchweek 17,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 18,True,Away,W,1.0,0.0,1.3,0.6
+Fluminense,Matchweek 19,True,Home,W,1.0,0.0,1.0,0.1
+Fluminense,Matchweek 20,True,Away,W,1.0,0.0,0.8,0.4
+Fluminense,Matchweek 21,True,Home,W,1.0,0.0,1.1,1.7
+Fluminense,Matchweek 22,True,Away,L,0.0,2.0,0.8,1.2
+Fluminense,Matchweek 23,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 24,False,Away,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 25,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 26,False,Away,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 27,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 28,False,Away,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 29,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 30,False,Away,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 31,False,Away,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 32,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 33,False,Away,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 34,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 35,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 36,False,Away,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 37,False,Home,,0.0,0.0,0.0,0.0
+Fluminense,Matchweek 38,False,Away,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 1,True,Home,L,1.0,2.0,1.6,1.2
+Atlético Goianiense,Matchweek 2,True,Away,L,0.0,1.0,0.9,0.6
+Atlético Goianiense,Matchweek 3,True,Home,L,0.0,3.0,0.2,1.7
+Atlético Goianiense,Matchweek 4,True,Away,D,1.0,1.0,0.3,1.9
+Atlético Goianiense,Matchweek 6,True,Home,L,0.0,1.0,1.5,0.5
+Atlético Goianiense,Matchweek 7,True,Away,W,2.0,0.0,1.4,0.6
+Atlético Goianiense,Matchweek 5,True,Away,L,0.0,1.0,1.6,1.3
+Atlético Goianiense,Matchweek 8,True,Home,D,2.0,2.0,3.1,0.4
+Atlético Goianiense,Matchweek 9,True,Away,W,2.0,1.0,1.8,0.7
+Atlético Goianiense,Matchweek 10,True,Home,L,1.0,2.0,0.6,1.4
+Atlético Goianiense,Matchweek 11,True,Away,D,0.0,0.0,0.8,0.9
+Atlético Goianiense,Matchweek 12,True,Home,D,1.0,1.0,1.7,0.4
+Atlético Goianiense,Matchweek 13,True,Away,D,1.0,1.0,1.2,0.7
+Atlético Goianiense,Matchweek 14,True,Away,L,1.0,3.0,0.7,1.6
+Atlético Goianiense,Matchweek 15,True,Home,L,1.0,2.0,0.7,1.0
+Atlético Goianiense,Matchweek 16,True,Away,L,1.0,3.0,0.5,3.3
+Atlético Goianiense,Matchweek 17,True,Home,L,0.0,1.0,0.9,1.2
+Atlético Goianiense,Matchweek 18,True,Away,L,1.0,3.0,0.7,1.6
+Atlético Goianiense,Matchweek 19,True,Home,D,1.0,1.0,1.1,0.8
+Atlético Goianiense,Matchweek 20,True,Away,L,0.0,2.0,0.4,1.3
+Atlético Goianiense,Matchweek 21,True,Home,L,1.0,4.0,1.2,3.1
+Atlético Goianiense,Matchweek 22,True,Away,L,0.0,1.0,0.7,2.0
+Atlético Goianiense,Matchweek 23,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 24,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 25,False,Away,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 26,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 27,False,Away,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 28,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 29,False,Away,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 30,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 31,False,Away,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 32,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 33,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 34,False,Away,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 35,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 36,False,Away,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 37,False,Home,,0.0,0.0,0.0,0.0
+Atlético Goianiense,Matchweek 38,False,Away,,0.0,0.0,0.0,0.0

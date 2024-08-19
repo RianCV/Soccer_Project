@@ -1,0 +1,80 @@
+Team,Name,Position,Matches_played,Minutes_played,Goals,Assists,Penalty_kicks_made,Yellow_cards,Red_cards,xG,npxG,xAG
+Fluminense,Fábio,GK,21.0,1.89,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Martinelli,"MF,DF",19.0,1.49,1.0,0.0,0.0,5.0,0.0,0.7,0.7,0.4
+Fluminense,Ganso,MF,19.0,1.382,3.0,3.0,0.0,9.0,0.0,0.8,0.8,2.5
+Fluminense,Samuel Xavier,DF,16.0,1.33,0.0,2.0,0.0,2.0,0.0,0.4,0.4,0.9
+Fluminense,Germán Cano,FW,15.0,1.119,2.0,0.0,0.0,3.0,0.0,4.5,4.5,0.5
+Fluminense,Marquinhos,"FW,DF",15.0,1.145,0.0,1.0,0.0,2.0,0.0,0.8,0.8,2.1
+Fluminense,Jhon Arias,FW,12.0,1.072,1.0,2.0,0.0,3.0,0.0,1.9,1.9,1.2
+Fluminense,Diogo Barbosa,DF,16.0,1.043,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.4
+Fluminense,Thiago dos Santos,DF,12.0,901.0,0.0,0.0,0.0,4.0,0.0,0.8,0.8,0.0
+Fluminense,André,MF,10.0,892.0,0.0,1.0,0.0,4.0,0.0,0.1,0.1,0.1
+Fluminense,Antonio Carlos,DF,11.0,900.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.2
+Fluminense,Lima,MF,13.0,816.0,2.0,0.0,0.0,5.0,1.0,0.8,0.8,0.2
+Fluminense,Keno,"FW,MF",13.0,780.0,0.0,0.0,0.0,0.0,0.0,0.9,0.9,0.4
+Fluminense,Marcelo,DF,11.0,727.0,1.0,1.0,1.0,1.0,0.0,1.2,0.4,1.7
+Fluminense,Alexsander,MF,14.0,701.0,0.0,1.0,0.0,4.0,0.0,0.3,0.3,0.8
+Fluminense,Manoel,DF,7.0,494.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0
+Fluminense,Felipe Melo,DF,6.0,288.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Fluminense,John Kennedy,FW,16.0,627.0,0.0,0.0,0.0,1.0,0.0,0.5,0.5,0.1
+Fluminense,Kauã Elias,"FW,MF",14.0,490.0,4.0,0.0,0.0,1.0,0.0,3.0,3.0,0.5
+Fluminense,Thiago Silva,DF,4.0,360.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.6
+Fluminense,Marlon,DF,4.0,352.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Fluminense,Gabriel,MF,5.0,237.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1
+Fluminense,Renato Augusto,"MF,FW",12.0,317.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1
+Fluminense,Douglas Costa,FW,10.0,292.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.4
+Fluminense,David Terans,"MF,FW",7.0,217.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0
+Fluminense,Kevin Serna,FW,3.0,179.0,0.0,1.0,0.0,0.0,0.0,0.3,0.3,0.5
+Fluminense,Guga,DF,4.0,140.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0
+Fluminense,Ignácio,DF,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Felipe Vieira,"DF,MF",6.0,161.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Jan Lucumí González,"FW,MF",3.0,92.0,0.0,0.0,0.0,2.0,1.0,0.1,0.1,0.3
+Fluminense,Lucas Calegari,DF,2.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Isaac,"FW,DF",4.0,74.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Fluminense,Esquerdinha,DF,3.0,55.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.3
+Fluminense,Nonato,MF,3.0,50.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Fluminense,Felipe Alves Raymundo,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Arthur,MF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Facundo Bernal,MF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Matheus dos Reis,FW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Vitor Eudes,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Gustavo,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Justen,DF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Rafael Monteiro,DF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluminense,Wallace,DF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlético Goianiense,Guilherme Romão,DF,20.0,1.768,1.0,3.0,0.0,5.0,0.0,1.7,1.7,2.3
+Atlético Goianiense,Luiz Fernando,"FW,MF",19.0,1.688,6.0,0.0,0.0,3.0,0.0,3.6,3.6,0.8
+Atlético Goianiense,Adriano Martins,DF,19.0,1.671,0.0,0.0,0.0,5.0,0.0,0.7,0.7,0.1
+Atlético Goianiense,Shaylon,"FW,MF",21.0,1.595,2.0,1.0,1.0,2.0,0.0,3.4,1.8,4.1
+Atlético Goianiense,Gabriel Baralhas,MF,20.0,1.4,1.0,1.0,0.0,5.0,0.0,1.2,1.2,1.4
+Atlético Goianiense,Ronaldo,GK,18.0,1.619,0.0,1.0,0.0,2.0,1.0,0.0,0.0,0.3
+Atlético Goianiense,Rhaldney,MF,17.0,1.198,0.0,1.0,0.0,6.0,0.0,0.5,0.5,0.5
+Atlético Goianiense,Maguinho,DF,18.0,1.223,0.0,1.0,0.0,2.0,1.0,0.3,0.3,1.1
+Atlético Goianiense,Alix Vinicius,DF,14.0,1.132,0.0,0.0,0.0,3.0,2.0,0.7,0.7,0.6
+Atlético Goianiense,Emiliano Rodríguez,FW,18.0,1.048,0.0,0.0,0.0,1.0,0.0,2.8,2.8,0.5
+Atlético Goianiense,Lucas Kal,"MF,DF",17.0,1.156,0.0,1.0,0.0,1.0,0.0,0.3,0.3,0.5
+Atlético Goianiense,Alejo Cruz,"MF,FW",20.0,935.0,0.0,0.0,0.0,3.0,0.0,0.6,0.6,1.7
+Atlético Goianiense,Budiga Roni,"MF,DF",12.0,681.0,1.0,0.0,0.0,2.0,0.0,0.6,0.6,0.1
+Atlético Goianiense,Pedrão,DF,9.0,534.0,0.0,0.0,0.0,3.0,0.0,0.2,0.2,0.0
+Atlético Goianiense,Luiz Felipe,DF,10.0,566.0,1.0,0.0,0.0,3.0,1.0,0.9,0.9,0.0
+Atlético Goianiense,Bruno Tubarão,DF,10.0,556.0,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.1
+Atlético Goianiense,Pedro Rangel,GK,4.0,360.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Atlético Goianiense,Janderson,"MF,FW",5.0,318.0,0.0,0.0,0.0,2.0,1.0,0.2,0.2,0.3
+Atlético Goianiense,Gonzalo Freitas,MF,3.0,270.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.2
+Atlético Goianiense,Jan Carlos Hurtado,FW,5.0,254.0,0.0,0.0,0.0,1.0,1.0,0.3,0.3,0.0
+Atlético Goianiense,Derek,FW,12.0,302.0,1.0,0.0,0.0,1.0,1.0,1.3,1.3,0.8
+Atlético Goianiense,Vágner Love,"FW,MF",6.0,176.0,1.0,0.0,0.0,1.0,0.0,1.5,1.5,0.0
+Atlético Goianiense,Yony González,"FW,MF",9.0,267.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2
+Atlético Goianiense,Joel Campbell,"FW,MF",2.0,135.0,1.0,0.0,1.0,1.0,0.0,1.1,0.3,0.1
+Atlético Goianiense,Yeferson Rodallega,DF,2.0,105.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlético Goianiense,Gabriel Barros,"FW,MF",2.0,79.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0
+Atlético Goianiense,Dé Marcão,DF,1.0,69.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Atlético Goianiense,Luiz Gustavo,DF,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlético Goianiense,Max,"FW,MF",14.0,263.0,0.0,0.0,0.0,2.0,0.0,0.3,0.3,0.6
+Atlético Goianiense,Danielzinho,"MF,FW",4.0,103.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Atlético Goianiense,Mateo Zuleta,"FW,MF",4.0,49.0,1.0,0.0,0.0,1.0,0.0,0.5,0.5,0.1
+Atlético Goianiense,Eli,FW,1.0,14.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Atlético Goianiense,Randerson,MF,2.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlético Goianiense,Gustavo Campanharo,MF,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Atlético Goianiense,Gustavo Daniel,DF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlético Goianiense,Emerson Júnior,GK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
